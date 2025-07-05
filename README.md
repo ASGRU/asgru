@@ -71,6 +71,7 @@ In general, I can be put on tasks of the level - it is not possible, the rest is
 
 | Company        | Role                     | Period           |
 |----------------|--------------------------|------------------|
+| Law firm       | IT Specialist            | Jul 2021 –          |
 | CHI Software   | Full Stack Web Developer | Jan 2020 – Apr 2022 |
 | CodeTiburon    | Full Stack Web Developer | Sep 2019 – Dec 2019 |
 | Brightgrove    | WordPress Developer      | Jul 2018 – Aug 2019 |
