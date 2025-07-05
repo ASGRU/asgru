@@ -59,10 +59,6 @@ I'm also not squeamish about working with legacy code, I'm so old I've been work
 
 ## 🔧 Favorite Projects
 
-- [postexservice.com](https://postexservice.com/ru/)  
-- [sofiya-club.com.ua](https://sofiya-club.com.ua/)  
-- [lvivskiymaetok.ua](https://lvivskiymaetok.ua/)  
-- [mg4home.co.il](https://www.mg4home.co.il/)  
 - [eestifirma.ee](https://www.eestifirma.ee/et/)  
 - [adamsmith.lt](https://adamsmith.lt/en/)  
 - [cryptolicense.ee](https://cryptolicense.ee/)
