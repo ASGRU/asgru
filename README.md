@@ -13,6 +13,7 @@ You choose your own mode of working with me:
 Let me tell you right away, I am not particularly interested in work for work's sake. A monkey can write code. Especially in 2025, chatgpt or cursor can do it perfectly well. I'm a heavy artilleryman who should only be assigned to complex system tasks. Such as key business logic or the creation of technical solutions that at the time of project development do not exist in nature.
 
 In general, I can be put on tasks of the level - it is not possible, the rest is too boring for me, and it's just burning your budget.
+I'm also not squeamish about working with legacy code, I'm so old I've been working with legacy as far back as the second version of WP.
 
 ---
 
@@ -29,7 +30,7 @@ In general, I can be put on tasks of the level - it is not possible, the rest is
 
 ## 💼 What I can help with
 
-- ⚡ Speed & Technical Optimization (TTFB, Core Web Vitals 90+)
+- ⚡ Speed & Technical Optimization (TTFB, Core Web Vitals 90+, DB, BackEnd refactoring)
 - 🧱 Gutenberg block development and theme migration
 - 🌍 Headless WordPress (React, REST API)
 - 🅦 Classical WordPress development
@@ -43,10 +44,11 @@ In general, I can be put on tasks of the level - it is not possible, the rest is
 
 ## 🧰 Tech Stack
 
-**Languages:** PHP, JavaScript, SQL, HTML, CSS/SCSS  
+**Languages:** PHP, Python, JavaScript, SQL, HTML, CSS/SCSS  
 **Tools:** Git, GitHub, GitKraken, Docker, GitHub Actions, Postman  
+**Soft:** IDE from JetBrains, Adobe, Figma, Cursor
 **Frontend:** React.js, Bootstrap, jQuery, Ajax  
-**CMS/Frameworks:** WordPress, Gutenberg, Yii  
+**CMS/Frameworks:** WordPress, Drupal, Laravel, Yii  
 **Servers:** Apache, Nginx  
 **APIs:** Google, YouTube, PayPal, DPD, NovaPoshta, Facebook, VK, EMS  
 **OS:** macOS, Linux, Windows  
