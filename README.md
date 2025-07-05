@@ -4,6 +4,18 @@
 
 ---
 
+## Before you start looking at my CV
+
+You choose your own mode of working with me:
+1. I just follow your tasks agreeing with everything, but then most likely your project will fail, so often happens when the work is done for the sake of work and not the result.
+2. I act as a consultant and the one who solves complex architectural problems that your team can not cope with on the project.
+
+Let me tell you right away, I am not particularly interested in work for work's sake. A monkey can write code. Especially in 2025, chatgpt or cursor can do it perfectly well. I'm a heavy artilleryman who should only be assigned to complex system tasks. Such as key business logic or the creation of technical solutions that at the time of project development do not exist in nature.
+
+In general, I can be put on tasks of the level - it is not possible, the rest is too boring for me, and it's just burning your budget.
+
+---
+
 ## 🧠 About me
 
 - Full-time in web since **2011** — from tables to Gutenberg, from Web 1.0 to Web 3.0  
@@ -17,9 +29,10 @@
 
 ## 💼 What I can help with
 
-- ⚡ Speed & CWV optimization (TTFB, Core Web Vitals 90+)
+- ⚡ Speed & Technical Optimization (TTFB, Core Web Vitals 90+)
 - 🧱 Gutenberg block development and theme migration
-- 🌍 Headless WordPress (Next.js, REST API)
+- 🌍 Headless WordPress (React, REST API)
+- 🅦 Classical WordPress development
 - 🌐 Multilingual & multisite setups (WPML, Polylang)
 - 🔐 Site hardening, hack recovery, security audits
 - 🧪 CI/CD for WordPress (GitHub Actions, Docker)
@@ -86,6 +99,38 @@ If your website is:
 I'm the person you want.
 
 ---
+
+## Full Information
+
+Previously, this space highlighted my impressive credentials as a developer: years of experience, websites built, tech stacks used, and types of projects completed. While this is still in my resume, it’s no longer the main focus. With the advent of accessible AI, it’s essential to highlight human qualities that machines can't replicate.
+
+I've been in web development since 2011, during the transition from table-based to block-based layouts. My life is closely tied to WordPress.
+
+I understand the internet thoroughly, from delivering information from user to server and back. Starting during the shift from WEB 1.0 to WEB 2.0, I continue to evolve as we now work in the WEB 3.0 era.
+
+I've taught people at offline events and through webinars.
+
+My standout feature is my unconventional mindset, enabling me to find technical solutions that no AI or team of specialists can offer.
+
+One example is an algorithm I created for a WordPress store. It processed price lists for 60,000 products, matched data, and provided the best price and delivery time for visitors. Popular price aggregators used similar mechanisms in 2011-2012. While a team of developers took six months to achieve my result, I did it in a month without programming experience.
+
+I've seen many startup founders trying to realize their ideas and, unfortunately, seen their startups fail. Often, I stepped into projects in their final stages as a lifeline to bring them to the MVP stage when teams were ready to give up.
+
+I've worked with various budgets: from a few hundred dollars per project to several million dollars a year for a corporate website.
+
+I've faced many challenges, and thanks to my experience, I can help you avoid them.
+
+However, I have my flaws. Despite a long IT career, I'm not fluent in English. There are several reasons for this. Firstly, I'm not good at learning languages other than my native one. Secondly, as an experienced computer user, I've always used an online translator. This hinders language learning but eases communication with clients.
+
+In summary: I am an IT specialist with extensive experience in various IT technologies, primarily focusing on web development with a marketing orientation.
+
+My commercial experience allows me to work at a high level both independently and in a team.
+
+My technical skills and experience compensate for language barriers, and modern tools keep me productive and effective.
+
+If you need help with your project or just want IT consultation, let me know, and we’ll solve your issue together!
+
+===
 
 ## 📬 Contact me
 
