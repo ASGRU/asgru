@@ -133,8 +133,6 @@ My technical skills and experience compensate for language barriers, and modern 
 
 If you need help with your project or just want IT consultation, let me know, and we’ll solve your issue together!
 
-===
-
 ## 📬 Contact me
 
 - 📧 Email: **asgru.wp@gmail.com**  
