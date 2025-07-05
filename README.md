@@ -46,7 +46,7 @@ I'm also not squeamish about working with legacy code, I'm so old I've been work
 
 **Languages:** PHP, Python, JavaScript, SQL, HTML, CSS/SCSS  
 **Tools:** Git, GitHub, GitKraken, Docker, GitHub Actions, Postman  
-**Soft:** IDE from JetBrains, Adobe, Figma, Cursor
+**Soft:** IDE from JetBrains, Adobe, Figma, Cursor  
 **Frontend:** React.js, Bootstrap, jQuery, Ajax  
 **CMS/Frameworks:** WordPress, Drupal, Laravel, Yii  
 **Servers:** Apache, Nginx  
