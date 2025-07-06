@@ -131,7 +131,7 @@ If you need help with your project or just want IT consultation, let me know, an
 
 ## 📬 Contact me
 
-- 📧 Email: **asgru.wp@gmail.com**  
+- 📧 Email: **asgru@asgru.com**  
 - 💬 Telegram: [@asgru](https://t.me/asgru)  
 - 🔗 LinkedIn: [linkedin.com/in/asgru](https://www.linkedin.com/in/asgru)  
 - 🌍 GitHub: [github.com/ASGRU](https://github.com/ASGRU)  
